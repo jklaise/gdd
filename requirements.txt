@@ -1,0 +1,6 @@
+matplotlib
+nest_asyncio
+requests
+tqdm
+pandas
+
